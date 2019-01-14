@@ -1,0 +1,48 @@
+
+h6
+{ 
+	font-family: "Times New Roman", Times, serif;
+	color: #CDCDB4;
+}
+
+h1
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 	25px;
+	color: #363636;
+}
+div.head{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+div.corpo
+{
+    margin-top: 2%; 
+    margin-right: 15%;
+    margin-bottom: 	10%;
+    margin-left: 15%;
+}
+div.corpo1
+{
+    float: left;
+	width:45%;
+}
+
+div.corpo2
+{
+    float: right;
+	width:45%;
+	
+    
+}
+p
+{
+	
+	text-align: justify;
+	color: #4F4F4F;
+}
+img {
+  max-width:100%;
+ 
+}
